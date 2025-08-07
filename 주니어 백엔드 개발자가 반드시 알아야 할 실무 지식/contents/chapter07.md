@@ -1,4 +1,4 @@
-<img width="1605" height="728" alt="image" src="https://github.com/user-attachments/assets/9745af30-0361-41f6-adc8-4546dbbf5bde" />
+
 # 7장  IO 병목, 어떻게 해결하지
 
 생성일: 2025년 7월 31일 오후 10:35
